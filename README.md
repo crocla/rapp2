@@ -9,9 +9,9 @@ The main difference with it's predcessor [**rapp**](https://github.com/crocla/ra
 
 Written in
 
-[AutoIt3]: https://www.autoitscript.com/
+**AutoIt3**: https://www.autoitscript.com/
 
 
 #### License
 
-[Apache 2.0]: http://www.apache.org/licenses/LICENSE-2.0.html
+**Apache 2.0**: http://www.apache.org/licenses/LICENSE-2.0.html
